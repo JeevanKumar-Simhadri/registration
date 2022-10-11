@@ -1,1 +1,1 @@
-# registration.html
+# registration
